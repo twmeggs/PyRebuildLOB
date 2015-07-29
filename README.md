@@ -10,7 +10,9 @@ Details
 
 There is a complete explanation of the project in the pdf provided.
 
-rebuilding_LOB
+Best to download this file as the PDF pictures don't quite render in Github.
+
+rebuilding_LOB.pdf
 
 Contact
 =======
